@@ -1,0 +1,6 @@
+framework module Pods_Login_System {
+  umbrella header "Pods-Login-System-umbrella.h"
+
+  export *
+  module * { export * }
+}
